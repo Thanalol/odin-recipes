@@ -43,6 +43,7 @@ h3 {
     align-items: center;
     height: 200px;
     border-top: 3px solid black;
+    background-color: hsl(138, 99%, 75%);
 
 }
 
@@ -53,11 +54,12 @@ h3 {
     align-items: center;
     height: 200px;
     border-top: 3px solid black;
+    background-color: hsl(138, 99%, 75%);
 
 }
 
 body {
 
-    background-color: rgb(1, 196, 59);
+    background-color: hsl(138, 99%, 65%);
 
 }

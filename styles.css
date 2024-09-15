@@ -1,11 +1,30 @@
 h1 {
-    color: red;
-}
 
-p {
-    color: white;
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
 }
 
 body {
-    background-color: rgb(14, 151, 133);
+
+    background-color: hsl(138, 99%, 65%);
+
+}
+
+.links {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid black;
+
+}
+
+li:hover {
+
+    color: red;
+
 }
